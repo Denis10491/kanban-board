@@ -1,0 +1,14 @@
+button, a {
+    cursor: pointer;
+}
+
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+.is-dragging {
+    background: #94a3b8;
+}
+.selected {
+    background: #22c55e;
+}
