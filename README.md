@@ -8,13 +8,13 @@ Vue.js 3, Pinia, TailwindCSS
 Clone the project
 
 ```bash
-  git clone https://github.com/Divrun/canban-board
+  git clone https://github.com/Divrun/kanban-board
 ```
 
 Go to the project directory
 
 ```bash
-  cd canban-board
+  cd kanban-board
 ```
 
 Install dependencies
